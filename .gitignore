@@ -1,0 +1,9 @@
+graphify-out/
+.graphifyrc
+.graphifyignore
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+.venv/
+.env
+.env.*
