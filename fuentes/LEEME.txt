@@ -1,0 +1,17 @@
+Tipografías de la documentación de CORA DAYCARE
+================================================
+
+Familias (licencia libre SIL Open Font License; ver los archivos LICENCIA-*):
+  - Fraunces        títulos           (Medium y SemiBold, más cursiva)
+  - Nunito Sans     texto y tablas    (Regular, SemiBold, Bold, Italic)
+  - IBM Plex Mono   código y rutas    (Regular)
+
+Cómo instalarlas
+  Windows:  selecciona todos los archivos .ttf, clic derecho y "Instalar para todos los usuarios".
+  macOS:    abre cada .ttf (o selecciónalos todos) y elige "Instalar tipografía".
+  Linux:    copia los .ttf a ~/.fonts y ejecuta fc-cache -f.
+
+Cierra y vuelve a abrir Word después de instalarlas. Si no están instaladas, Word usa
+otra tipografía y el documento pierde su estilo; el PDF ya las lleva incrustadas.
+
+Nota: son subconjuntos latinos, suficientes para español (acentos, ñ, «», ¿ ¡).
