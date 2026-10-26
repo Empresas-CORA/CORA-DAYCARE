@@ -1,9 +1,4 @@
-graphify-out/
-.graphifyrc
-.graphifyignore
-.claude/
-CLAUDE.md
-CLAUDE.local.md
+# Entornos y secretos
 .venv/
 .env
 .env.*

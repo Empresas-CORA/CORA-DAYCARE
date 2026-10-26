@@ -6,7 +6,7 @@
 <p>
   <img src="assets/badge-fase.svg" alt="Fase: 1 · Identidad">
   <img src="assets/badge-cuatrimestre.svg" alt="Cuatrimestre: 1.º">
-  <img src="assets/badge-version.svg" alt="Versión: v0.2">
+  <img src="assets/badge-version.svg" alt="Versión: v0.3">
   <img src="assets/badge-estado.svg" alt="Estado: Borrador">
   <img src="assets/badge-equipo.svg" alt="Equipo: 4 integrantes">
 </p>
@@ -100,18 +100,9 @@ CORA-DAYCARE/
 
 | Documento | Formato |
 | :-- | :-- |
-| Fase 1 · Identidad (v0.2) | [PDF de lectura](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.pdf) · [Word editable](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.docx) |
+| Fase 1 · Identidad (v0.3) | [PDF de lectura](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.pdf) · [Word editable](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.docx) |
 
 El documento reúne en un solo archivo, con índice navegable, el problema, los usuarios, la propuesta de valor, el alcance, los riesgos, la planeación, los roles, la investigación de sistemas similares y el registro de decisiones.
-
-## Cómo trabajamos
-
-- **Ramas.** Son cortas e indican la fase y la persona que trabaja en ellas (por ejemplo, `fase1-johann`).
-- **Sin Pull Requests.** Los cambios llegan a `main` con un merge y un push que hace el equipo desde su terminal.
-- **Commits.** Siguen Conventional Commits, escritos en español.
-- **Tareas.** El seguimiento de tareas y entregables se lleva en ClickUp.
-- **Desarrollo.** Se apoya en Claude Code, que ejecuta los cambios dentro del repositorio, excepto en `main`: esa rama la manejan las personas del equipo. La configuración local de Claude Code y el grafo de Graphify no se publican en el repositorio.
-- **Datos personales.** En este repositorio solo se publican nombre, un apellido y rol. No se suben matrículas, correos ni teléfonos.
 
 ## Estado y siguientes pasos
 
