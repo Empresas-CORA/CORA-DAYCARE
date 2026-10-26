@@ -89,6 +89,7 @@ CORA-DAYCARE/
 ├─ assets/                banner, insignias y separadores de este README
 ├─ bitacora/              una entrada por sesión relevante
 ├─ entregables/           versiones entregadas a la universidad
+├─ fuentes/               tipografías de la documentación y sus licencias
 └─ docs/
    ├─ 01-planificacion/   documento de Identidad (.docx editable y .pdf de lectura)
    ├─ 02-analisis/        requerimientos (se llena al llegar a esa fase)
@@ -105,10 +106,11 @@ El documento reúne en un solo archivo, con índice navegable, el problema, los 
 
 ## Cómo trabajamos
 
-- **Git.** Cada integrante trabaja en su propia rama y fusiona mediante Pull Request. La rama `main` se protege con una regla del repositorio y nunca se toca directamente.
+- **Ramas.** Son cortas e indican la fase y la persona que trabaja en ellas (por ejemplo, `fase1-johann`).
+- **Sin Pull Requests.** Los cambios llegan a `main` con un merge y un push que hace el equipo desde su terminal.
 - **Commits.** Siguen Conventional Commits, escritos en español.
 - **Tareas.** El seguimiento de tareas y entregables se lleva en ClickUp.
-- **Desarrollo.** Se apoya en Claude Code, con una regla de configuración que impide hacer push a `main`.
+- **Desarrollo.** Se apoya en Claude Code, que ejecuta los cambios dentro del repositorio, excepto en `main`: esa rama la manejan las personas del equipo. La configuración local de Claude Code y el grafo de Graphify no se publican en el repositorio.
 - **Datos personales.** En este repositorio solo se publican nombre, un apellido y rol. No se suben matrículas, correos ni teléfonos.
 
 ## Estado y siguientes pasos
