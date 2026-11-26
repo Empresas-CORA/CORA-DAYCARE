@@ -6,7 +6,7 @@
 <p>
   <img src="assets/badge-fase.svg" alt="Fase: 1 · Identidad">
   <img src="assets/badge-cuatrimestre.svg" alt="Cuatrimestre: 1.º">
-  <img src="assets/badge-version.svg" alt="Versión: v0.3">
+  <img src="assets/badge-version.svg" alt="Versión: v0.4">
   <img src="assets/badge-estado.svg" alt="Estado: Borrador">
   <img src="assets/badge-equipo.svg" alt="Equipo: 4 integrantes">
 </p>
@@ -87,7 +87,7 @@ El reparto de los frentes se deriva de la asignación de roles y está por confi
 CORA-DAYCARE/
 ├─ README.md              presentación del proyecto
 ├─ assets/                banner, insignias y separadores de este README
-├─ bitacora/              una entrada por sesión relevante
+├─ bitacora/              una entrada por sesión relevante e índice
 ├─ entregables/           versiones entregadas a la universidad
 ├─ fuentes/               tipografías de la documentación y sus licencias
 └─ docs/
@@ -100,7 +100,9 @@ CORA-DAYCARE/
 
 | Documento | Formato |
 | :-- | :-- |
-| Fase 1 · Identidad (v0.3) | [PDF de lectura](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.pdf) · [Word editable](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.docx) |
+| Fase 1 · Identidad (v0.4) | [PDF de lectura](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.pdf) · [Word editable](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.docx) |
+
+Las sesiones de trabajo se registran en [`bitacora/`](bitacora/README.md).
 
 El documento reúne en un solo archivo, con índice navegable, el problema, los usuarios, la propuesta de valor, el alcance, los riesgos, la planeación, los roles, la investigación de sistemas similares y el registro de decisiones.
 
@@ -109,10 +111,10 @@ El documento reúne en un solo archivo, con índice navegable, el problema, los 
 | Fase | Carpeta | Estado |
 | :-- | :-- | :-- |
 | Planificación (Identidad) | `docs/01-planificacion/` | En borrador para revisión del equipo |
-| Análisis (Requerimientos) | `docs/02-analisis/` | Por iniciar |
-| Diseño | `docs/03-diseno/` | Por iniciar |
+| Análisis (Requerimientos) | `docs/02-analisis/` | Inicia el 26 de noviembre de 2026 |
+| Diseño (web y móvil) | `docs/03-diseno/` | Inicia el 27 de noviembre de 2026 |
 
-El primer cuatrimestre cubre Planificación, Análisis y Diseño, con el primer entregable en diciembre de 2026. Los siguientes cuatrimestres cubren Desarrollo y Pruebas (abril de 2027) y Despliegue y Mantenimiento (agosto de 2027); las fechas exactas están por confirmar.
+El primer cuatrimestre cubre Planificación, Análisis y Diseño, con el primer entregable a más tardar el 1 de diciembre de 2026; el Diseño incluye web y móvil. El segundo cuatrimestre (8.º de la carrera) cubre Desarrollo y Pruebas, con entrega en abril de 2027. El tercero cubre Despliegue y Mantenimiento, con entrega en agosto de 2027. Para el segundo y el tercer entregable solo está definido el mes, no la fecha exacta.
 
 ## Licencia
 
