@@ -22,5 +22,6 @@ Para escribir una entrada, se copia [`_plantilla.md`](_plantilla.md) y se llena.
 | N.º | Fecha | Fase | Resumen | Decisiones |
 | :-- | :-- | :-- | :-- | :-- |
 | [001](2026-11-25_001.md) | 25 de noviembre de 2026 | Planificación, Análisis y Diseño | Se fija el primer entregable al 1 de diciembre, se confirman las siete fases y se define el formato de la bitácora. | D-45 a D-49 |
+| [002](2026-11-26_002.md) | 26 de noviembre de 2026 | Análisis | Primera versión de los requisitos funcionales y de seguridad y privacidad; estructura del proyecto en ClickUp. | Ninguna nueva |
 
 Las sesiones del 15 de octubre al 3 de noviembre de 2026 están resumidas en el registro de decisiones del documento de Identidad (D-01 a D-44).
