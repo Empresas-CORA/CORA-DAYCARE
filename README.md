@@ -92,7 +92,7 @@ CORA-DAYCARE/
 ├─ fuentes/               tipografías de la documentación y sus licencias
 └─ docs/
    ├─ 01-planificacion/   documento de Identidad (.docx editable y .pdf de lectura)
-   ├─ 02-analisis/        requerimientos (v0.1, .docx editable y .pdf de lectura)
+   ├─ 02-analisis/        requerimientos (v0.2, .docx editable y .pdf de lectura)
    └─ 03-diseno/          diseño (se llena al llegar a esa fase)
 ```
 
@@ -101,7 +101,7 @@ CORA-DAYCARE/
 | Documento | Formato |
 | :-- | :-- |
 | Fase 1 · Identidad (v0.4) | [PDF de lectura](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.pdf) · [Word editable](docs/01-planificacion/CORA-DAYCARE_Fase1_Identidad.docx) |
-| Fase 2 · Requerimientos (v0.1, borrador) | [PDF de lectura](docs/02-analisis/CORA-DAYCARE_Fase2_Requerimientos_v0.1.pdf) · [Word editable](docs/02-analisis/CORA-DAYCARE_Fase2_Requerimientos_v0.1.docx) |
+| Fase 2 · Requerimientos (v0.2, borrador) | [PDF de lectura](docs/02-analisis/CORA-DAYCARE_Fase2_Requerimientos_v0.2.pdf) · [Word editable](docs/02-analisis/CORA-DAYCARE_Fase2_Requerimientos_v0.2.docx) |
 
 Las sesiones de trabajo se registran en [`bitacora/`](bitacora/README.md).
 
@@ -112,7 +112,7 @@ El documento reúne en un solo archivo, con índice navegable, el problema, los 
 | Fase | Carpeta | Estado |
 | :-- | :-- | :-- |
 | Planificación (Identidad) | `docs/01-planificacion/` | En borrador para revisión del equipo |
-| Análisis (Requerimientos) | `docs/02-analisis/` | En borrador (v0.1 del 26 de noviembre de 2026); se completa el 27 de noviembre |
+| Análisis (Requerimientos) | `docs/02-analisis/` | En borrador (v0.2 del 26 de noviembre de 2026); se completa el 27 de noviembre |
 | Diseño (web y móvil) | `docs/03-diseno/` | Inicia el 27 de noviembre de 2026 |
 
 El primer cuatrimestre cubre Planificación, Análisis y Diseño, con el primer entregable a más tardar el 1 de diciembre de 2026; el Diseño incluye web y móvil. El segundo cuatrimestre (8.º de la carrera) cubre Desarrollo y Pruebas, con entrega en abril de 2027. El tercero cubre Despliegue y Mantenimiento, con entrega en agosto de 2027. Para el segundo y el tercer entregable solo está definido el mes, no la fecha exacta.
