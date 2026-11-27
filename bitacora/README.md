@@ -24,5 +24,6 @@ Para escribir una entrada, se copia [`_plantilla.md`](_plantilla.md) y se llena.
 | [001](2026-11-25_001.md) | 25 de noviembre de 2026 | Planificación, Análisis y Diseño | Se fija el primer entregable al 1 de diciembre, se confirman las siete fases y se define el formato de la bitácora. | D-45 a D-49 |
 | [002](2026-11-26_002.md) | 26 de noviembre de 2026 | Análisis | Primera versión de los requisitos funcionales y de seguridad y privacidad; estructura del proyecto en ClickUp. | Ninguna nueva |
 | [003](2026-11-26_003.md) | 26 de noviembre de 2026 | Análisis | Requerimientos v0.2: recogida con QR de un solo uso, sensores del brazalete y funcionamiento sin internet. | D-50 a D-52 |
+| [004](2026-11-26_004.md) | 26 de noviembre de 2026 | Análisis | Presentación de Integradora III; el líder del equipo es CEO; se descartan cámaras y gafetes de la práctica de red. | D-53, D-54 |
 
 Las sesiones del 15 de octubre al 3 de noviembre de 2026 están resumidas en el registro de decisiones del documento de Identidad (D-01 a D-44).
